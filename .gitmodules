@@ -1,0 +1,3 @@
+[submodule "vcpkg_base"]
+	path = vcpkg_base
+	url = https://github.com/yeisme/vcpkg_base.git
