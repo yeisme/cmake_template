@@ -1,3 +1,6 @@
 [submodule "vcpkg_base"]
 	path = vcpkg_base
 	url = https://github.com/yeisme/vcpkg_base.git
+[submodule "cpp_demo"]
+	path = cpp_demo
+	url = https://github.com/yeisme/cpp_demo.git
